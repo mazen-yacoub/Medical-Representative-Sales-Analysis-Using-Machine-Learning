@@ -1,4 +1,4 @@
-# Medical-Representative-Sales-Analysis-Using-Machine-Learning
+# Medical-Representative-Sales-Analysis-Using-Machine-Learning - DEPI_Final_Project
 Final project of DEPI (IBM Data Science Track)
 
 ## Predicting Doctors' Prescribing Behaviour
